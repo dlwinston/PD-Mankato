@@ -5,6 +5,7 @@
 #     strategy_description: a string
 #     move: A function that returns 'c' or 'b'
 #     This is a test
+#       This is our new team for PLTW Team Martin.
 ####
 
 team_name = 'The name the team gives to itself' # Only 10 chars displayed.
